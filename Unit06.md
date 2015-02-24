@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST252: Modern Africa"
+course_description: "An introduction to the history of Africa from the 19th century to the present. Subjects include imperialism, nationalism, decolonization, wars of independence, civil wars, and the rise of modern nation-states."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: White Settlement in South Africa** <span id="6"></span> 
 *European colonialism in Africa took two general forms.  So far, this
 class has focused on the first type, colonial rule without settlement.

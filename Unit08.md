@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST252: Modern Africa"
+course_description: "An introduction to the history of Africa from the 19th century to the present. Subjects include imperialism, nationalism, decolonization, wars of independence, civil wars, and the rise of modern nation-states."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Africa in the Late Twentieth Century** <span id="8"></span> 
 *Leaders of African independence movements hoped to build strong states
 and bring growth and development to their new states in the second half

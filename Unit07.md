@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST252: Modern Africa"
+course_description: "An introduction to the history of Africa from the 19th century to the present. Subjects include imperialism, nationalism, decolonization, wars of independence, civil wars, and the rise of modern nation-states."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Decolonization and Independence** <span id="7"></span> 
 *Between 1956 and 1975, more than forty new countries replaced the
 French, British, Belgian, Portuguese, and Spanish Empires in Africa.

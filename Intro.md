@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST252: Modern Africa"
+course_description: "An introduction to the history of Africa from the 19th century to the present. Subjects include imperialism, nationalism, decolonization, wars of independence, civil wars, and the rise of modern nation-states."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "HIST252: Modern Africa"
 --------------------------------------------
 

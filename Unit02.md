@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST252: Modern Africa"
+course_description: "An introduction to the history of Africa from the 19th century to the present. Subjects include imperialism, nationalism, decolonization, wars of independence, civil wars, and the rise of modern nation-states."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The Partition of Africa** <span id="2"></span> 
 *The partition of Africa, also referred to as the scramble for Africa,
 between 1880 and 1914 resulted in the annexation or occupation of

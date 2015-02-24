@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST252: Modern Africa"
+course_description: "An introduction to the history of Africa from the 19th century to the present. Subjects include imperialism, nationalism, decolonization, wars of independence, civil wars, and the rise of modern nation-states."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Africa and World War I & II** <span id="5"></span> 
 *World War I began as a European struggle between the Triple Entente
 (France, Great Britain, and the Russian Empire) and the Central Powers

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST252: Modern Africa"
+course_description: "An introduction to the history of Africa from the 19th century to the present. Subjects include imperialism, nationalism, decolonization, wars of independence, civil wars, and the rise of modern nation-states."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Colonial Powers** <span id="3"></span> 
 *The colonization of the African continent was carried out by a small
 number of European countries.  The two primary colonizing powers were
