@@ -163,3 +163,4 @@ throughout the course (see Unit 1).
 - [Unit 7](https://legacy.saylor.org/hist252/Unit07/)
 - [Unit 8](https://legacy.saylor.org/hist252/Unit08/)
 - [Unit 9](https://legacy.saylor.org/hist252/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST252/HIST252-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST252/HIST252-FinalExam-Answers.html)
