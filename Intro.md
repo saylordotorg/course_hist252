@@ -82,7 +82,7 @@ documents (.doc, .ppt, .xls, etc.).</span>
  <span dir="LTR">√    Be competent in the English language.</span>  
   
  √    Have read the [Saylor Student
-Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
+Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
   
  √    Have completed the following courses from “[The Core
 Program](http://www.saylor.org/majors/history/)” of the History

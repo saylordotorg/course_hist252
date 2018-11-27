@@ -80,7 +80,7 @@ Upon successful completion of this unit, the student will be able to:
     Colonial Policies”**
     Link: St. Mary’s University: Dr. Wallace G. Mills’ “[British
     Colonial
-    Policies](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-British-Colonial-Policies.pdf)”
+    Policies](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-British-Colonial-Policies.pdf)”
     (PDF)  
         
      Instructions: Click on the link above, and read through Dr. Mills’
@@ -127,7 +127,7 @@ Upon successful completion of this unit, the student will be able to:
     Approaches in Colonial Policy”**
     Link: St. Mary’s University: Dr. Wallace G. Mills’ “[French
     Approaches in Colonial
-    Policy](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-French-Approaches-in-Colonial-Policy.pdf)”
+    Policy](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-French-Approaches-in-Colonial-Policy.pdf)”
     (PDF)  
         
      Instructions: Click on the link above, and read Dr. Mills’ lecture
@@ -195,7 +195,7 @@ Upon successful completion of this unit, the student will be able to:
     Settlers in British Colonies”**
     Link: St. Mary’s University: Dr. Wallace G. Mills’ “[White Settlers
     in British
-    Colonies](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-White-Settlers-in-British-Colonies.pdf)”
+    Colonies](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-White-Settlers-in-British-Colonies.pdf)”
     (PDF)  
         
      Instructions: Please read Dr. Mills’ lecture notes on the topic of
@@ -326,7 +326,7 @@ Upon successful completion of this unit, the student will be able to:
     Colonial Africa”**
     Link: The Saylor Foundation’s “[Creation of Economic Zones in
     Colonial
-    Africa](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-Subunit-4.3.1-Creation-of-Economic-Zones-in-Colonial-Africa-FINAL.pdf)”
+    Africa](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-Subunit-4.3.1-Creation-of-Economic-Zones-in-Colonial-Africa-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please download the short reading linked above, and
@@ -537,10 +537,10 @@ Upon successful completion of this unit, the student will be able to:
     Man’s Burden”**
     Link: The Saylor Foundation’s version of Theodore Roosevelt’s (et
     al.) *African and European Addresses:* [“British Rule in
-    Africa”](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-African-and-European-Addresses-British-Rule-in-Africa.pdf) (PDF)
+    Africa”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-African-and-European-Addresses-British-Rule-in-Africa.pdf) (PDF)
     and The Saylor Foundation’s version of Rudyard Kipling’s “[The White
     Man’s
-    Burden](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-The-White-Mans-Burden.pdf)”
+    Burden](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-The-White-Mans-Burden.pdf)”
     (PDF)  
         
      Instructions: Read President Roosevelt’s short speech and Kipling’s
@@ -600,7 +600,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “Units 3 and 4 Reading
     Questions”**
     Link: The Saylor Foundation’s “[Units 3 and 4 Reading
-    Questions](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST252-Unit-3-4-Reading-Questions.FINAL_.pdf)”
+    Questions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST252-Unit-3-4-Reading-Questions.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Please write a well-developed paragraph in response
@@ -611,7 +611,7 @@ Upon successful completion of this unit, the student will be able to:
     you have completed the task you are encouraged to check your work
     against the Saylor Foundation’s “[Guide to Responding to Units 3 & 4
     Reading
-    Questions](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST252-GTR-Units-3-4-Reading-Questions.FINAL_.pdf)”
+    Questions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST252-GTR-Units-3-4-Reading-Questions.FINAL_.pdf)”
     (PDF) for some notes on possible answers.
 
 
