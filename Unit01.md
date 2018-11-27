@@ -60,7 +60,7 @@ Upon successful completion of this unit, the student will be able to:
 **1.1 What Is ‘African’ History?** <span id="1.1"></span> 
 -   **Reading: The Saylor Foundation’s “What Is ‘African’ History?”**
     Link: The Saylor Foundation’s “[What Is ‘African’
-    History?](http://www.saylor.org/site/wp-content/uploads/2012/05/hist252-1.1-What-is-%E2%80%98African%E2%80%99-History.pdf)”
+    History?](https://resources.saylor.org/archived/wp-content/uploads/2012/05/hist252-1.1-What-is-%E2%80%98African%E2%80%99-History.pdf)”
     (PDF)  
         
      Instructions: Please download the reading linked above and read the
@@ -73,7 +73,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation’s “Major Periods in African
     History”**
     Link: The Saylor Foundation’s “[Major Periods in African
-    History](http://www.saylor.org/site/wp-content/uploads/2012/05/hist252-1.2-Major-Periods-in-African-History.pdf)”
+    History](https://resources.saylor.org/archived/wp-content/uploads/2012/05/hist252-1.2-Major-Periods-in-African-History.pdf)”
     (PDF)  
         
      Instructions: Please download the reading linked above for a brief
@@ -86,7 +86,7 @@ Patterns** <span id="1.3.1"></span> 
     Geographic Landscape and Climate Patterns”**
     Link: The Saylor Foundation’s “[Key Elements of Africa’s Geographic
     Landscape and Climate
-    Patterns](http://www.saylor.org/site/wp-content/uploads/2012/05/hist252-1.3-Key-Elements-of-Africa%E2%80%99s-Geographic-Landscape-and-Climate-Patterns.pdf)”
+    Patterns](https://resources.saylor.org/archived/wp-content/uploads/2012/05/hist252-1.3-Key-Elements-of-Africa%E2%80%99s-Geographic-Landscape-and-Climate-Patterns.pdf)”
     (PDF)  
         
      Instructions: Please download the reading linked above for a brief
@@ -198,26 +198,26 @@ Patterns** <span id="1.3.1"></span> 
     Exercise 1,” “Map for Exercise 2,” “Map Exercise 1 Answer Key,” and
     “Map Exercise 2 Answer Key”**
     Link: The Saylor Foundation’s “[Map Exercises Items to be
-    Identified](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-Subunit-1.3.2.4-Map-Exercises-Items-to-Be-Identified-FINAL.pdf),”
+    Identified](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-Subunit-1.3.2.4-Map-Exercises-Items-to-Be-Identified-FINAL.pdf),”
     (PDF) “[Map Exercise
-    1](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-1-FINAL.pdf),”
+    1](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-1-FINAL.pdf),”
     (PDF) “[Map Exercise
-    2](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-2-FINAL.pdf),”
+    2](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-2-FINAL.pdf),”
     (PDF) “[Map for Map Exercise
-    1](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-Map-for-Map-Exercise-1.jpg),”
+    1](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-Map-for-Map-Exercise-1.jpg),”
     (JPG) “[Map for Exercise
-    2](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-Map-for-Map-Exercise-2.jpg),”
+    2](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-Map-for-Map-Exercise-2.jpg),”
     (JPG) “[Answer Key to Map Exercise
-    1](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-1-Answer-Key-FINAL.pdf),”
+    1](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-1-Answer-Key-FINAL.pdf),”
     and “[Answer Key to Map Exercise
-    2](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-2-Answer-Key-FINAL.pdf)”
+    2](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-2-Answer-Key-FINAL.pdf)”
     (PDF)  
         
      Also available in:  
      [Map Exercise
-    1](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-1-FINAL.docx) (.doc)  
+    1](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-1-FINAL.docx) (.doc)  
      [Map Exercise
-    2](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-2-FINAL.docx) (.doc)  
+    2](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-1.3.2.4-Map-Exercise-2-FINAL.docx) (.doc)  
         
      Instructions: Please download the documents in the order listed
     above.  The first document contains the names of all African
@@ -237,7 +237,7 @@ Patterns** <span id="1.3.1"></span> 
 -   **Reading: The Saylor Foundation’s “Historical African Place
     Names”**
     Link: The Saylor Foundation’s “[Historical African Place
-    Names](http://www.saylor.org/site/wp-content/uploads/2012/05/hist252-1.4-Historical-African-Place-Names.pdf)”
+    Names](https://resources.saylor.org/archived/wp-content/uploads/2012/05/hist252-1.4-Historical-African-Place-Names.pdf)”
     (PDF)  
         
      Instructions: Please download the reading linked above and read the

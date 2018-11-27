@@ -99,7 +99,7 @@ id="2.2"></span> 
     Africa”](http://exploringafrica.matrix.msu.edu/students/curriculum/m14/activity4.php) (HTML)
     and St. Mary’s University: Dr. Wallace G. Mills’ “[The Role of
     Missionaries in
-    Conquest](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-The-Role-of-Missionaries-in-Conquest.pdf)”
+    Conquest](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-The-Role-of-Missionaries-in-Conquest.pdf)”
     (PDF)  
         
      Instructions: For the Michigan State University resource linked
@@ -144,7 +144,7 @@ id="2.2"></span> 
 -   **Reading: Saylor Foundation’s “Medicinal and Technological
     Advances”**
     Link: Saylor Foundation’s “[Medicinal and Technological
-    Advances](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-Subunit-2.2.3-Medicinal-and-Technological-Advances-FINAL.pdf)”
+    Advances](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-Subunit-2.2.3-Medicinal-and-Technological-Advances-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please download the reading linked above.  It offers
@@ -156,7 +156,7 @@ id="2.2"></span> 
     Social Darwinism”**
     Link: St. Mary’s University: Dr. Wallace G. Mills’ “[Racism and
     Social
-    Darwinism](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-Racism-and-Social-Darwinism.pdf)”
+    Darwinism](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-Racism-and-Social-Darwinism.pdf)”
     (PDF)  
         
      Instructions: Please read Dr. Mills’ lecture notes about the
@@ -227,7 +227,7 @@ id="2.2"></span> 
 -   **Reading: The Saylor Foundation’s “Why Did Europe Colonize
     Africa?”**
     Link: The Saylor Foundation’s “[Why Did Europe Colonize
-    Africa?](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-Subunit-2.3.2-Why-Did-Europe-Colonize-FINAL.pdf)”
+    Africa?](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-Subunit-2.3.2-Why-Did-Europe-Colonize-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please download the reading linked above and read the
@@ -247,7 +247,7 @@ id="2.2"></span> 
     Rule](http://exhibitions.nypl.org/africanaage/essay-resistance.html)”
     (HTML) and St. Mary’s University: Dr. Wallace G. Mills’ “[African
     Responses to European
-    Intrusions](http://www.saylor.org/site/wp-content/uploads/2011/12/HIST252-African-Responses-to-European-Intrusion.pdf)”
+    Intrusions](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-African-Responses-to-European-Intrusion.pdf)”
     (PDF)  
         
      Instructions: Please read Dr. Talton’s essay on “African Resistance
@@ -274,7 +274,7 @@ id="2.2"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 2 Reading Questions”**
     Link: The Saylor Foundation’s “[Unit 2 Reading
-    Questions](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST252-Unit-2-Reading-Questions.FINAL_.pdf)”
+    Questions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST252-Unit-2-Reading-Questions.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Please write a well-developed paragraph in response
@@ -285,7 +285,7 @@ id="2.2"></span> 
     you have completed the task you are encouraged to check your work
     against the Saylor Foundation’s “[Guide to Responding to Unit 2
     Reading
-    Questions](http://www.saylor.org/site/wp-content/uploads/2012/04/HIST252-GTR-Unit-2-Reading-Questions.FINAL_.pdf)”
+    Questions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/HIST252-GTR-Unit-2-Reading-Questions.FINAL_.pdf)”
     (PDF) for some notes on possible answers.
 
 
