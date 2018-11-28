@@ -86,7 +86,7 @@ Upon successful completion of this unit, the student will be able to:
     Excerpt from The Rise of Our East African Empire**
     Link: The Saylor Foundation’s version of Captain F.D. Lugard’s
     Excerpt from *[The Rise of Our East African
-    Empire](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-3.1.2-The-Rise-of-Our-East-African-Empire.pdf) *(PDF)  
+    Empire](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/HIST252-3.1.2-The-Rise-of-Our-East-African-Empire.pdf) *(PDF)  
         
      Instructions: Please read the entire excerpt.  This 1893 text,
     written by a British colonial administrator in what is now Uganda,
@@ -194,7 +194,7 @@ Upon successful completion of this unit, the student will be able to:
     Colonial Policy”**
     Link: St. Mary’s University: Dr. Wallace G. Mills’ [“Belgian
     Colonial
-    Policy”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-Belgian-Colonial-Policy.pdf) (PDF)  
+    Policy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/HIST252-Belgian-Colonial-Policy.pdf) (PDF)  
         
      Instructions: Read these notes to understand the economic goals of
     Belgian colonial rule in the Congo Free State and Belgian Congo.  

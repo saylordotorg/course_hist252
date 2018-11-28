@@ -371,7 +371,7 @@ Upon successful completion of this unit, the student will be able to:
 **8.4.2 Environmental Problems in Africa** <span id="8.4.2"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 8 Review Essay”**
     Link: The Saylor Foundation’s “[Unit 8 Review
-    Essay](https://resources.saylor.org/archived/wp-content/uploads/2012/05/HIST252-Unit-8-Review-Essay.FINAL_.pdf)”
+    Essay](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/HIST252-Unit-8-Review-Essay.FINAL_.pdf)”
     (PDF)  
         
      Instructions:Please write a well-developed essay in response to the
@@ -383,7 +383,7 @@ Upon successful completion of this unit, the student will be able to:
     coherent and reflective essay in response to the question. When you
     have completed the task you are encouraged to check your work
     against the Saylor Foundation’s “[Guide to Responding to Review
-    Essay.”](https://resources.saylor.org/archived/wp-content/uploads/2012/05/HIST252-Unit-8-GTR-Review-Essay.FINAL_.pdf)
+    Essay.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/HIST252-Unit-8-GTR-Review-Essay.FINAL_.pdf)
     (PDF)  A well-developed essay should take 3-8 hours to complete.
 
 -   **Reading: The Africa Society’s “Addressing Environmental Problems
