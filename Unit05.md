@@ -155,7 +155,7 @@ id="5.1.2"></span> 
     and [“The
     Aftermath”](http://www.bbc.co.uk/worldservice/specials/1624_story_of_africa/page13.shtml) (HTML);
     St. Mary’s University: Dr. Wallace G. Mills’ [“World War I and Its
-    Effects”](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-World-War-1-and-its-Effects.pdf) (PDF)  
+    Effects”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/HIST252-World-War-1-and-its-Effects.pdf) (PDF)  
         
      Instructions: Read each of the BBC articles linked here.  Please
     also listen to the audio sections in the yellow boxes for the BBC
@@ -329,7 +329,7 @@ catalysts for political activism within African colonies.*
     Responses to Colonialism”**
     Link: St. Mary’s University: Dr. Wallace G. Mills’ “[African
     Responses to
-    Colonialism](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-African-Responses-to-Colonialism.pdf)”
+    Colonialism](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/HIST252-African-Responses-to-Colonialism.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above to access the text,
@@ -362,7 +362,7 @@ catalysts for political activism within African colonies.*
 -   **Reading: St. Mary’s University: Dr. Wallace G. Mills’
     “Négritude”**
     Link: St. Mary’s University: Dr. Wallace G. Mills’
-    “[Négritude](https://resources.saylor.org/archived/wp-content/uploads/2012/11/N%C3%A9gritude.pdf)”
+    “[Négritude](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/11/N%C3%A9gritude.pdf)”
     (PDF)  
          
      Instructions: Read the first three pages of Dr. Mills’ lecture
@@ -578,7 +578,7 @@ id="5.4"></span> 
 -   **Reading: The Saylor Foundation’s “WWII and the Road to
     Independence”**
     Link: The Saylor Foundation’s “[WWII and the Road to
-    Independence](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-Subunit-5.4-WWII-and-the-Road-to-Independence-FINAL.pdf)”
+    Independence](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/HIST252-Subunit-5.4-WWII-and-the-Road-to-Independence-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please download the short essay linked above and read

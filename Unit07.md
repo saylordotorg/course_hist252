@@ -518,7 +518,7 @@ id="7.4.1.1"></span> 
 -   **Assessment: The Saylor Foundation’s “Units 6 and 7 Reading
     Questions”**
     Link: The Saylor Foundation’s “[Units 6 and 7 Reading
-    Questions](https://resources.saylor.org/archived/wp-content/uploads/2012/05/HIST252-Unit-6-7-Reading-Questions.FINAL_.pdf)”
+    Questions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/HIST252-Unit-6-7-Reading-Questions.FINAL_.pdf)”
     (PDF)  
         
      Instructions: Please write a well-developed paragraph in response
@@ -529,7 +529,7 @@ id="7.4.1.1"></span> 
     you have completed the task you are encouraged to check your work
     against the Saylor Foundation’s “[Guide to Responding to Units 6 & 7
     Reading
-    Questions](https://resources.saylor.org/archived/wp-content/uploads/2012/05/HIST252-GTR-Units-6-7-Reading-Questions.FINAL_.pdf)”
+    Questions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/HIST252-GTR-Units-6-7-Reading-Questions.FINAL_.pdf)”
     (PDF) for some notes on possible answers. This assessment should
     take roughly 1.5 to 3 hours to complete.
 

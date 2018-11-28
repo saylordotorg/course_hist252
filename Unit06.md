@@ -152,7 +152,7 @@ Upon successful completion of this unit, the student will be able to:
     Trek”](http://www.sahistory.org.za/pages/governence-projects/great-trek/great-trek1.htm) (HTML)
     and St. Mary’s University: Dr. Wallace G. Mills’ version of Piet
     Retief’s “[Manifesto of the Emigrant
-    Farmers](https://resources.saylor.org/archived/wp-content/uploads/2011/12/HIST252-Piet-Retief%E2%80%99s-Manifesto.pdf)”
+    Farmers](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/12/HIST252-Piet-Retief%E2%80%99s-Manifesto.pdf)”
     (PDF)  
         
      Instructions: Read the text and examine the map of Afrikaner trek
